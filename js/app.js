@@ -9,7 +9,7 @@ const navbar = document.querySelector("header nav");
 const links = document.querySelectorAll(".links a");
 
 let typed = new Typed(".typing",{
-      strings:["Kien","19 years old","a Student"],
+      strings:["Kien","19 years old","hard-working and opened-mind"],
       typeSpeed:100,
       backSpeed:60,
       loop:true,
